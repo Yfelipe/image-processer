@@ -4,7 +4,6 @@ The image processer will allow you to re-size the images in the assets/full fold
 ## Requirements: 
 
 * npm
-* Node js
 
 ### Install the project dependencies
 
